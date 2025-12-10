@@ -2,7 +2,7 @@ package mygit;
 
 public class C {
 	public static void main(String[] args) {
-		System.out.println("C main method changed by master");
+		System.out.println("C main method merged (master and Alice)");
 		A a = new A();
 		B b = new B();
 	}
