@@ -2,6 +2,6 @@ package mygit;
 
 public class A {
 	public A() {
-		System.out.println("A object created (master)");
+		System.out.println("A object changed by Bob");
 	}
 }
